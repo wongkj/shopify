@@ -1,4 +1,5 @@
 # shopify
 Learning shopify
 
-## Another Shopify
+### Email Address: myka-shopify1@outlook.com
+### Shopify Account: mykashopify1
